@@ -1,0 +1,85 @@
+/* Base Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  
+  /* Container */
+  .container {
+    max-width: 850px;
+    margin: auto;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+  }
+  
+  /* Headings */
+  h1 {
+    color: #1d3557;
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    color: #2a6fdc;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 4px;
+    margin-top: 40px;
+  }
+  
+  h3 {
+    color: #2a6fdc;
+    margin-bottom: 5px;
+  }
+  
+  /* Lists */
+  ul {
+    margin-top: 0;
+    padding-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 6px;
+  }
+  
+  /* Links */
+  a {
+    color: #2a6fdc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Images */
+  img {
+    border-radius: 8px;
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    display: block;
+    margin: 10px 0;
+  }
+  
+  /* Horizontal Rules */
+  hr {
+    border: 50%;
+    height: 1px;
+    background: #ddd;
+    margin: 30px 0;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #777;
+  }
+  
